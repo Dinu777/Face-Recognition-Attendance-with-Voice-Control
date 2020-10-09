@@ -28,4 +28,22 @@
   - playsound
   - speech_recognition 
   - gTTS
-  - datetime 
+  - datetime                                
+                                  
+                            iiii  
+                           i::::i 
+                            iiii  
+                                  
+          aaaaaaaaaaaaa   iiiiiii 
+          a::::::::::::a  i:::::i 
+          aaaaaaaaa:::::a  i::::i 
+                   a::::a  i::::i 
+            aaaaaaa:::::a  i::::i 
+          aa::::::::::::a  i::::i 
+         a::::aaaa::::::a  i::::i 
+        a::::a    a:::::a  i::::i 
+        a::::a    a:::::a i::::::i
+ ...... a:::::aaaa::::::a i::::::i
+ .::::.  a::::::::::aa:::ai::::::i
+ ......   aaaaaaaaaa  aaaaiiiiiiii
+ 
