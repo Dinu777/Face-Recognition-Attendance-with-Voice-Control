@@ -29,7 +29,7 @@
   - speech_recognition 
   - gTTS
   - datetime                                
- (                                 
+ <pre>                                 
                             iiii  
                            i::::i 
                             iiii  
@@ -46,5 +46,5 @@
  ...... a:::::aaaa::::::a i::::::i
  .::::.  a::::::::::aa:::ai::::::i
  ......   aaaaaaaaaa  aaaaiiiiiiii
- 
- )
+
+</pre>
