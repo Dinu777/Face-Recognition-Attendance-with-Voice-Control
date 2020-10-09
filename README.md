@@ -1,5 +1,9 @@
 # Face-Recognition-Attendance-with-Voice-Control
 
+# UI
+
+<img src="web/Attendance Intelligence - UI.png" alt="My cool logo"/>
+
 # File Structure -
     Dataset - Contains images whose face is to be Recognized 
     web - Contains all the html, css and js file for UI 
